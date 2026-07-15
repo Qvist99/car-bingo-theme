@@ -1,0 +1,38 @@
+{
+    "$schema": "https://ui.shadcn.com/schema/registry.json",
+    "name": "roadtrip-bingo",
+    "homepage": "https://github.com/Qvist99/car-bingo-theme",
+    "items": [
+        {
+            "name": "roadtrip-theme",
+            "type": "registry:theme",
+            "title": "Road Trip Bingo Theme",
+            "description": "Stone + amber theme for the road trip bingo app",
+            "cssVars": {
+                "theme": {
+                    "font-sans": "Inter, sans-serif",
+                    "font-mono": "JetBrains Mono, monospace"
+                },
+                "light": {
+                    "background": "oklch(0.985 0.001 106)",
+                    "foreground": "oklch(0.216 0.006 56)",
+                    "card": "oklch(1 0 0)",
+                    "card-foreground": "oklch(0.216 0.006 56)",
+                    "primary": "oklch(0.216 0.006 56)",
+                    "primary-foreground": "oklch(1 0 0)",
+                    "secondary": "oklch(0.97 0.001 106)",
+                    "secondary-foreground": "oklch(0.216 0.006 56)",
+                    "muted": "oklch(0.97 0.001 106)",
+                    "muted-foreground": "oklch(0.553 0.013 58)",
+                    "accent": "oklch(0.828 0.153 78)",
+                    "accent-foreground": "oklch(0.216 0.006 56)",
+                    "border": "oklch(0.923 0.003 48)",
+                    "input": "oklch(0.869 0.005 56)",
+                    "ring": "oklch(0.828 0.153 78)",
+                    "destructive": "oklch(0.577 0.245 27)",
+                    "destructive-foreground": "oklch(1 0 0)"
+                }
+            }
+        }
+    ]
+}
